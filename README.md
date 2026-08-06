@@ -1,4 +1,4 @@
-<img src="logofull2.png" alt="Description of the image" width="300">
+<img src="logofull2.png" alt="Description of the image" width="100">
 
 
 # LabSuite - Laboratorio de Unidad Metabólica (LUM)
