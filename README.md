@@ -1,5 +1,8 @@
 <img src="logofull2.png" alt="Description of the image" width="300">
 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+ ![alt text](https://img.shields.io/badge/Version-1.0-brightgreen)
+
 
 # LabSuite - Laboratorio de Unidad Metabólica (LUM)
 ### Morpho-Constitutional Kidney Stone Analysis & Pathology Report System
